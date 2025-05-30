@@ -40,7 +40,7 @@ This project is a simple but efficient RFID-based attendance system built using 
 -  Written in **Assembly Language**
 -  Developed using **MPLAB X IDE**
 -  Simulated using **Proteus** (optional)
--  Deployed on PIC16F877A and RDM6300 RFID Sensor.
+-  Implemented on PIC16F877A and RDM6300 RFID Sensor.
 -  UART configured at 9600 baud rate (RDM6300 default)
 
 
